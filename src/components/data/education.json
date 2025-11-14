@@ -1,20 +1,20 @@
 [
   {
     "degree": "Bachelor of Engineering in Computer Science",
-    "institution": "Savitribai Phule Pune University",
-    "year": "2019 - 2023",
-    "details": "Focused on software development, web technologies, and full-stack engineering."
+    "institution": "North Maharashtra University, Jalgaon",
+    "year": "2020 - 2023",
+    "details": "Focused on software development, web technologies, and full-stack development."
   },
   {
     "degree": "Higher Secondary Education (HSC)",
-    "institution": "Pune Board",
-    "year": "2017 - 2019",
+    "institution": "Arts, Science and Commerce College, Kurha Kakoda, Jalgaon",
+    "year": "2018 - 2020",
     "details": "Studied Physics, Chemistry, and Mathematics with strong analytical focus."
   },
   {
     "degree": "Secondary School (SSC)",
-    "institution": "Pune Board",
-    "year": "2016 - 2017",
+    "institution": "Shree Shivaji HighSchool, Kurha Kakoda Jalgaon",
+    "year": " 2017 – 2018",
     "details": "Achieved excellent academic performance with strong foundational skills."
   }
 ]
