@@ -10,20 +10,24 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 17px 24px;
   max-width: 345px;
+  max-height: 900px;
 }
 
 .image{
     margin-bottom: 26px;
+    height: 100px;
+    border-radius: 10px;
+    width: auto;
 }
 
 .title{
-    font-size: 25px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .description{
     margin-top: 6px;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: 400;
 }
 
@@ -38,8 +42,8 @@
 }
 
 .skill{
-    font-size: 25px;
-    font-weight: 500;
+    font-size: 15px;
+    font-weight: 300;
     border-radius: 100px;
     background:  var(--color-dark);
     padding: 2px 22px;
@@ -55,8 +59,8 @@
 .link{
    text-decoration: none;
     color: var(--color-text);
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 15px;
+    font-weight: 300;
     border-radius: 100px;
     background: var(--color-primary);
     padding: 1px 20px;

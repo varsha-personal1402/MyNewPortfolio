@@ -1,10 +1,18 @@
 [
   {
-    "role": "Frontend Developer",
+    "role": "Frontend Developer Intern",
     "organization": "Bhabale Infotech Solutions, Nagpur",
     "startDate": "Jan, 2025",
     "endDate": "Jun, 2025",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": [
+      "Build responsive and user-friendly web interfaces",
+      "Develop websites using HTML, CSS, JavaScript, and React.js",
+      "Create modern, visually appealing UI designs",
+      "Optimize website performance and loading speed",
+      "Ensure cross-browser and mobile compatibility",
+      "Integrate front-end components with RESTful APIs",
+      "Focus on clean code and reusable components"
+    ],
     "imageSrc": "../../assets/history/google.png"
   }
 ]

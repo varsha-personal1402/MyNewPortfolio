@@ -24,12 +24,10 @@ const Experience = () => {
           {history.map((historyItems, id) => {
             return (
               <li key={id} className={style.historyItem}>
-                <img
-                  src={historyItems.imageSrc}
-                  alt={`${historyItems.organization} Logo`}
-                />
+                
                 <div className={style.historyItemDetails}>
-                    <h3>{`${historyItems.role}, ${historyItems.organization}`}</h3>
+                    <h3>{`${historyItems.role}`}</h3>
+                    <h3>{`${historyItems.organization}`}</h3>
                     <p>{`${historyItems.startDate}:${historyItems.endDate}`}</p>
                     <ul>
                         {historyItems.experiences.map((experience, id)=>{

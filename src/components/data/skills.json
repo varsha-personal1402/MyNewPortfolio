@@ -1,22 +1,50 @@
 [
   {
-    "title":"HTML",
+    "title": "HTML",
     "imageSrc": "../../assets/skills/html.png"
   },
   {
-    "title":"CSS",
+    "title": "CSS",
     "imageSrc": "../../assets/skills/css.png"
   },
   {
-    "title":"React",
+    "title": "React",
     "imageSrc": "../../assets/skills/react.png"
   },
   {
-    "title":"Figma",
-    "imageSrc": "../../assets/skills/figma.png"
+    "title": "JavaScript",
+    "imageSrc": "/skills/java-script.png"
   },
   {
-    "title":"HTML",
-    "imageSrc": "../../assets/skills/html.png"
+    "title": "Bootstrap",
+    "imageSrc": "/skills/bootstrap.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "/skills/github.jpg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "/skills/java.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "/skills/springboot.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "/skills/mysql.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "/skills/postgresql.png"
+  },
+  {
+    "title": "Hibernate",
+    "imageSrc": "/skills/hibernate.png"
+  },
+   {
+    "title": "VS Code",
+    "imageSrc": "/skills/visual-basic.png"
   }
 ]
