@@ -88,7 +88,7 @@
   z-index: 0;
 }
 
-/* .bottomBlur{
+ .bottomBlur{
   position: absolute;
   width: 70vw;
   height: 50vw;
@@ -97,10 +97,10 @@
   top: 246px;
   right: 25vw;
   border-radius: 764px;
-  background: rgba(25,55,109,0.7);
+  background: #0f172a;
   filter: blur(100px);
   z-index: 0;
-} */
+} 
 
 @media screen and (max-width: 830px){
   .container{
