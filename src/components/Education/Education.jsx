@@ -6,7 +6,7 @@ const Education = () => {
   return (
     <section className={styles.educationSection} id="education">
       <h2 className={styles.title}>Education</h2>
-      <div className={styles.timeline}>
+      <div className={styles.timeline}>     
         {educationData.map((item, index) => (
           <div key={index} className={styles.timelineItem}>
             <div className={styles.content}>

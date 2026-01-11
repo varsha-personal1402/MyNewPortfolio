@@ -15,10 +15,7 @@
     "title": "JavaScript",
     "imageSrc": "/skills/java-script.png"
   },
-  {
-    "title": "Bootstrap",
-    "imageSrc": "/skills/bootstrap.png"
-  },
+  
   {
     "title": "GitHub",
     "imageSrc": "/skills/github.jpg"
@@ -31,10 +28,7 @@
     "title": "Springboot",
     "imageSrc": "/skills/springboot.png"
   },
-  {
-    "title": "MySQL",
-    "imageSrc": "/skills/mysql.png"
-  },
+ 
   {
     "title": "PostgreSQL",
     "imageSrc": "/skills/postgresql.png"

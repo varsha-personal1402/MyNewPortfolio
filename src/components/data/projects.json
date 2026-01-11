@@ -2,8 +2,8 @@
   {
     "title": "E-Commerce Website",
     "imageSrc": "../../assets/project/project.png",
-    "description": "A full-stack E-Commerce web application where users can browse products, add items to the cart, and place orders. Built with React for the frontend and Spring Boot for the backend.",
-    "skills": ["React", "Bootstrap", "Spring Boot", "PostgreSQL", "REST API"],
+    "description": "An E-Commerce web application where users can browse products, add items to the cart, and place orders.",
+    "skills": ["React", "HTML", "CSS"],
     "demo": "https://your-ecommerce-demo-link.com",
     "source": "https://github.com/varsha-personal1402"
   },
