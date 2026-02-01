@@ -18,11 +18,11 @@ const Contact = () => {
         </li>
         <li className={style.link}>
           <img src={githubIcon} alt="GitHub Icon" />
-          <a href="https://github.com/yourusername">github.com/yourusername</a>
+          <a href="https://github.com/varsha-personal1402">https://github.com/varsha-personal1402</a>
         </li>
         <li className={style.link}>
           <img src={linkedinIcon} alt="LinkedIn Icon" />
-          <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a>
+          <a href="www.linkedin.com/in/varsha-zalte-69ba08263">www.linkedin.com/in/varsha-zalte-69ba08263</a>
         </li>
       </ul>
     </footer>
